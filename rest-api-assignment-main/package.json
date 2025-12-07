@@ -1,0 +1,15 @@
+{
+  "name": "rest-api-assignment",
+  "version": "1.0.0",
+  "description": "RESTful API for managing users - assignment",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "author": "Sampath Vinay Ram Vuppala",
+  "license": "MIT"
+}
